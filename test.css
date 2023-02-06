@@ -5,3 +5,8 @@ h1 {
 p {
     font-size: 25px;
 }
+
+div {
+    width: 50vw;
+    background-color: blue;
+}
